@@ -1,0 +1,11 @@
+{
+  "name": "fast-env-guard",
+  "version": "1.1.0",
+  "description": "Zero-dependency runtime environment variable validator",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  }
+}
